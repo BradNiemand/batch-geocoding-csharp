@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchGeocodingREST", "BatchGeocodingREST\BatchGeocodingREST.csproj", "{D9AEE546-ACB2-4421-834E-21B627FFC9AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchGeocodingRESTSample", "BatchGeocodingRESTSample\BatchGeocodingRESTSample.csproj", "{D9AEE546-ACB2-4421-834E-21B627FFC9AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
