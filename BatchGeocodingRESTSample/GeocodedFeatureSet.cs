@@ -33,7 +33,11 @@ namespace ServiceBatchTestsREST
     public double Score { get; set; }
     public String Match_addr { get; set; }
     public String Addr_type { get; set; }
+    public String Type { get; set; }
     public String PlaceName { get; set; }
+    public String Place_addr { get; set; }
+    public String Phone { get; set; }
+    public String URL { get; set; }
     public String Rank { get; set; }
     public String AddBldg { get; set; }
     public String AddNum { get; set; }
@@ -45,6 +49,7 @@ namespace ServiceBatchTestsREST
     public String StName { get; set; }
     public String StType { get; set; }
     public String StDir { get; set; }
+    public String StAddr { get; set; }
     public String Nbrhd { get; set; }
     public String City { get; set; }
     public String Subregion { get; set; }
